@@ -1,0 +1,10 @@
+.container{
+    border: 1px solid tomato;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.visited{
+    background-color: aquamarine;
+    color: brown;
+}
